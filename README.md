@@ -1,1 +1,1 @@
-Recipe website
+Simple recipe website, made as HTML practice for The Odin Project. It contains some of my favorite simple recipes to make.
