@@ -1,8 +1,15 @@
 body {
     box-sizing: border-box;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: 'Lucida Sans', Candara, sans-serif;
+    margin: 60px;
 }
 
 h1 {
-    color: red;
+    color: rgb(40, 57, 94);
+    font-family: 'Rockwell';
+}
+
+h2 {
+    color: rgb(78, 89, 104);
+    margin: 20px 0px 4px 0px;
 }
